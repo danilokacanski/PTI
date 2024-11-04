@@ -1,0 +1,1 @@
+Imamo agente od kojih ne moze svaki sa svakim da komunicira. Oznceni su slobima A,B,C,D,E,F. Grafom je onzaceno ko sa kime moze da prica. Svi mere istu velicinu i treba  da se dogovore izmedju sebe koja je stvarna vrednost te velicine.
